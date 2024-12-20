@@ -17,7 +17,6 @@
 </ul>
 
 <h3 align="leftr">🔧 Habilidades Técnicas</h3>
-<span style='font-size:100px;'>&#127941;</span>
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
@@ -40,8 +39,7 @@
   </a>
 </p>
 
-<h3 align="left">Certificaciones y Reconocimientos</h3>
-<span style='font-size:100px;'>&#127941;</span>
+<h3 align="left">Certificaciones y Reconocimientos 🏅</h3>
 <ul>
   <li><strong>Generative AI Professional Certification - GAIPC™ </strong> Issued by Certiprof</li>
   <li><strong>Generative IA Synchronous - Course</strong> Issued by ITCERT E.I.R.L</li>
