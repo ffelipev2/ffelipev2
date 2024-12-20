@@ -9,6 +9,8 @@
   <img align="right" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 50%; overflow: hidden;">
 </a>
 
+![GIF Circular](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 <ul>
   <li>💪 Actualmente, trabajo en un <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
   <li>🔬 Soy docente en asignaturas como "Introducción a la Programación", "Diseño Web"  y "Programación Front End".</li>
