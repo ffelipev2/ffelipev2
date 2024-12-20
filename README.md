@@ -28,7 +28,7 @@
 
 <h3 align="left">💬 Contáctame</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/felipe-valdebenito" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-flores-2972b14a" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
   <a href="https://github.com/ffelipev2" target="_blank">
