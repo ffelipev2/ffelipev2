@@ -16,8 +16,8 @@
   <li>🏅 Ganador del tercer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
 </ul>
 
-<h3 align="center">🔧 Habilidades Técnicas</h3>
-<p align="center">
+<h3 align="leftr">🔧 Habilidades Técnicas</h3>
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
