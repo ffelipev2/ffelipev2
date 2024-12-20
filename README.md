@@ -41,10 +41,12 @@
 
 <h3 align="left">Certificaciones y Reconocimientos</h3>
 <ul>
-  <li><strong>Generative AI Professional Certification - GAIPC™ </strong> - CertiProf</li>
-  <li><strong>Generative IA Synchronous - Course</strong> - ITCERT</li>
-  <li><strong>Cyber Security Foundation Professional Certificate - CSFPC™</strong> - CertiProf</li>
-  <li><strong>Cyber Security Foundation Professional Certificate - CSFPC™</strong> - CertiProf</li>
+  <li><strong>Generative AI Professional Certification - GAIPC™ </strong> Issued by Certiprof</li>
+  <li><strong>Generative IA Synchronous - Course</strong> Issued by ITCERT E.I.R.L</li>
+  <li><strong>Cyber Security Foundation Professional Certificate - CSFPC™</strong> Issued by Certiprof</li>
+  <li><strong>Lifelong Learning</strong> Issued by Certiprof</li>
+  <li><strong>Scrum Foundation Professional Certification - SFPC™ </strong> CIssued by Certiprof</li>
+  <li><strong>Scrum Foundation Synchronous Course </strong> - Issued by ITCERT E.I.R.L</li>
 </ul>
 
 <h3 align="left">Idiomas</h3>
