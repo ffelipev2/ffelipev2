@@ -1,79 +1,58 @@
-<h1 align="center">Hola 👋, Soy <a href="https://ffelipev2.github.io/" target="blank">
-Felipe</a></h1>
-<h3 align="center"> Ingeniero informático de Chile 🇨🇱</h3>
+<h1 align="center">Hola 👋, Soy <a href="https://ffelipev2.github.io/" target="_blank">Felipe</a></h1>
+<h3 align="center">Ingeniero Civil Informático y Magíster en Alta Dirección de Chile 🇨🇱</h3>
 
-<p align="left"> <img src="" alt="100rabhcsmc" /> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Python - Arduino**
-
-- 📫 How to reach me **ffelipev2@gmail.com**
-
-- 📄 Conoce acerca de mi experiencia <a href="" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="c">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="r">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+<p align="left">
+  <img src="" alt="imagen-perfil" />
 </p>
 
-### Blogs posts
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<!-- BLOG-POST-LIST:START -->
+<ul>
+  <li>💪 Actualmente, lidero la implementación del <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
+  <li>🔬 Soy docente en asignaturas como "Introducción a la Programación" y "Diseño Web".</li>
+  <li>✨ Me especializo en <strong>IoT</strong>, <strong>fabricación 3D</strong> y <strong>tecnologías emergentes</strong>.</li>
+  <li>🏅 Ganador del primer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
+</ul>
 
+<h3 align="center">🔧 Habilidades Técnicas</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
+</p>
 
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">💬 Contáctame</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/felipe-valdebenito" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ffelipev2" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
+  </a>
+  <a href="mailto:ffelipev2@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/plasticine/40/000000/gmail-new.png" alt="Correo Electrónico">
+  </a>
+</p>
+
+<h3 align="center">Certificaciones y Reconocimientos</h3>
+<ul>
+  <li><strong>Scrum Foundation Professional Certificate (SFPC™)</strong> - CertiProf</li>
+  <li><strong>Cyber Security Foundation Professional Certificate (CSFPC™)</strong> - ITCERT</li>
+  <li><strong>Lifelong Learning</strong> - CertiProf</li>
+</ul>
+
+<h3 align="center">Idiomas</h3>
+<ul>
+  <li><strong>Español</strong>: Nativo</li>
+  <li><strong>Inglés</strong>: Nivel intermedio en comprensión escrita</li>
+</ul>
 
 ---
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
-
-
-<!--
-**ffelipev2/ffelipev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Diseñado con 💖 por Felipe.
+</p>
