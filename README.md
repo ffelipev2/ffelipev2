@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h3 align="left">Certificaciones y Reconocimientos 🏅</h3>
+<h3 align="left">🏅 Certificaciones y Reconocimientos</h3>
 <ul>
   <li><strong>Generative AI Professional Certification - GAIPC™ </strong> Issued by Certiprof</li>
   <li><strong>Generative IA Synchronous - Course</strong> Issued by ITCERT E.I.R.L</li>
