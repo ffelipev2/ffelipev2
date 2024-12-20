@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy <a href="https://ffelipev2.github.io/" target="_blank">Felipe</a></h1>
 <h3 align="center">Ingeniero Civil Informático y Magíster en Alta Dirección de Chile 🇨🇱</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxYWExa3B5c2dheTBiY3dicXhhejhpNzBmdTB1bGJpYnVjcjhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" alt="imagen-perfil" />
 </p>
 
@@ -11,8 +11,8 @@
 
 <ul>
   <li>💪 Actualmente, trabajo en un <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
-  <li>🔬 Soy docente en asignaturas como "Introducción a la Programación" y "Diseño Web".</li>
-  <li>✨ Me especializo en <strong>IoT</strong>, <strong>fabricación 3D</strong> y <strong>tecnologías emergentes</strong>.</li>
+  <li>🔬 Soy docente en asignaturas como "Introducción a la Programación", "Diseño Web"  y "Programación Front End".</li>
+  <li>✨ Me especializo en <strong>IoT</strong>, <strong>fabricación 3D</strong> y <strong>Tecnologías emergentes</strong>.</li>
   <li>🏅 Ganador del tercer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
 </ul>
 
