@@ -9,7 +9,7 @@
   <img align="right" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 50%; overflow: hidden;">
 </a>
 
-![GIF Circular](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![GIF Circular](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxYWExa3B5c2dheTBiY3dicXhhejhpNzBmdTB1bGJpYnVjcjhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp)
 
 <ul>
   <li>💪 Actualmente, trabajo en un <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
