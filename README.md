@@ -13,7 +13,7 @@
   <li>💪 Actualmente, trabajo en un <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
   <li>🔬 Soy docente en asignaturas como "Introducción a la Programación", "Diseño Web"  y "Programación Front End".</li>
   <li>✨ Me especializo en <strong>IoT</strong>, <strong>fabricación 3D</strong> y <strong>Tecnologías emergentes</strong>.</li>
-  <li>🏅 Ganador del tercer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
+  <li>🏆 Ganador del tercer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
 </ul>
 
 <h3 align="leftr">🔧 Habilidades Técnicas</h3>
