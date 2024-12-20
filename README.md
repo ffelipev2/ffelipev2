@@ -2,11 +2,11 @@
 <h3 align="center">Ingeniero Civil Informático &#128187;</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxYWExa3B5c2dheTBiY3dicXhhejhpNzBmdTB1bGJpYnVjcjhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" alt="imagen-perfil" height =200 width =200 />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxYWExa3B5c2dheTBiY3dicXhhejhpNzBmdTB1bGJpYnVjcjhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" alt="imagen-perfil" height =200 width =200  style="border-radius: 50%; overflow: hidden; />
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 50%; overflow: hidden;">
+  <img align="right" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <ul>
