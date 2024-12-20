@@ -10,10 +10,10 @@
 </a>
 
 <ul>
-  <li>💪 Actualmente, lidero la implementación del <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
+  <li>💪 Actualmente, trabajo en un <strong>laboratorio de Industria 4.0</strong> en la Universidad San Sebastián.</li>
   <li>🔬 Soy docente en asignaturas como "Introducción a la Programación" y "Diseño Web".</li>
   <li>✨ Me especializo en <strong>IoT</strong>, <strong>fabricación 3D</strong> y <strong>tecnologías emergentes</strong>.</li>
-  <li>🏅 Ganador del primer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
+  <li>🏅 Ganador del tercer lugar en el <strong>Encuentro de Electromovilidad La Ruta Solar</strong>.</li>
 </ul>
 
 <h3 align="center">🔧 Habilidades Técnicas</h3>
