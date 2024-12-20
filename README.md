@@ -57,5 +57,5 @@
 
 ---
 <p align="center">
-  Diseñado con 💖 por Felipe.
+  Diseñado con 💖 por Felipe Flores Valdebenito.
 </p>
