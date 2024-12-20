@@ -26,8 +26,8 @@
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
 </p>
 
-<h3 align="center">💬 Contáctame</h3>
-<p align="center">
+<h3 align="left">💬 Contáctame</h3>
+<p align="left">
   <a href="https://linkedin.com/in/felipe-valdebenito" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
@@ -39,14 +39,14 @@
   </a>
 </p>
 
-<h3 align="center">Certificaciones y Reconocimientos</h3>
+<h3 align="left">Certificaciones y Reconocimientos</h3>
 <ul>
   <li><strong>Scrum Foundation Professional Certificate (SFPC™)</strong> - CertiProf</li>
   <li><strong>Cyber Security Foundation Professional Certificate (CSFPC™)</strong> - ITCERT</li>
   <li><strong>Lifelong Learning</strong> - CertiProf</li>
 </ul>
 
-<h3 align="center">Idiomas</h3>
+<h3 align="left">Idiomas</h3>
 <ul>
   <li><strong>Español</strong>: Nativo</li>
   <li><strong>Inglés</strong>: Nivel intermedio en comprensión escrita</li>
