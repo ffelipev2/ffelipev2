@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy <a href="https://ffelipev2.github.io/" target="_blank">Felipe</a></h1>
-<h3 align="center">Ingeniero Civil Informático &#128187;</h3>
+<h3 align="center">Ingeniero Civil Informático - Chile &#128187;</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxYWExa3B5c2dheTBiY3dicXhhejhpNzBmdTB1bGJpYnVjcjhjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" alt="imagen-perfil" height =200 width =200/>
